@@ -267,7 +267,7 @@ See [`LICENSE`](LICENSE) for details.
 
 ## 👤 Author
 
-**Your Name** — Frontend Developer
+**Prasad Jagzap** — Frontend Developer
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-yoursite.com-blue)]()
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5)]()
