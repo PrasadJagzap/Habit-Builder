@@ -187,7 +187,7 @@ Motion  →  --transition-fast  --transition-base
 
 ```bash
 # 1. Clone
-git clone https://github.com/yourusername/habit-builder.git
+git clone https://github.com/prasadjagzap/habit-builder.git
 cd habit-builder
 
 # 2. Run — zero install required
@@ -271,7 +271,7 @@ See [`LICENSE`](LICENSE) for details.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-yoursite.com-blue)]()
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5)]()
-[![GitHub](https://img.shields.io/badge/GitHub-yourusername-181717)]()
+[![GitHub](https://img.shields.io/badge/GitHub-prasadjagzap-181717)]()
 
 ---
 
